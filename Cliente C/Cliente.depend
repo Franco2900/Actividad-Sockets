@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1723649663 source:c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1723678443 source:c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\cliente\maincliente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<winsock2.h>
+
+1724348714 source:c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\cliente c\maincliente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<locale.h>
+	<winsock2.h>
+	"Cliente.h"
+
+1724288021 c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\cliente c\cliente.h
+	"Cliente.c"
+
+1724514666 c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\cliente c\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<locale.h>
+	<winsock2.h>
+	"Cliente.h"
+

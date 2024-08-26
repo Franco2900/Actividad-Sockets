@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1724524409 source:c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\servidor\mainservidor.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<winsock2.h>
+	<locale.h>
+	<time.h>
+	"Servidor.h"
+
+1724288081 c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\servidor\servidor.h
+	"Servidor.c"
+
+1724602969 c:\users\franco\desktop\unla 2024\sistemas distribuidos 2024\sockets cliente-servidor\servidor\servidor.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<winsock2.h>
+	<locale.h>
+	<time.h>
+	"Servidor.h"
+
